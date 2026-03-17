@@ -1,0 +1,17 @@
+{
+    "Name": "An electroencephalogram microdisplay to visualize neuronal activity on the brain surface",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "These datasets contain electrocorticography recordings from the brains of pigs and rats, utilizing a 1024-channel intracranial electroencephalography (iEEG) microdisplay. These recordings were obtained from animals that participated in the study documented in the paper titled 'An electroencephalogram microdisplay to visualize neuronal activity on the brain surface'. The data includes noise that can be filtered out. For detailed instructions on this process, please consult the accompanying journal article.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
