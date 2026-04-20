@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "These datasets contain electrocorticography recordings from the brains of pigs and rats, utilizing a 1024-channel intracranial electroencephalography (iEEG) microdisplay. These recordings were obtained from animals that participated in the study documented in the paper titled 'An electroencephalogram microdisplay to visualize neuronal activity on the brain surface'. The data includes noise that can be filtered out. For detailed instructions on this process, please consult the accompanying journal article.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Tchoe, Youngbin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
